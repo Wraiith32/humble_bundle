@@ -291,7 +291,6 @@
 
 | Title                            |
 | -------------------------------- |
-| 11 choices remaining             |
 | Greak: Memories of Azur          |
 | TOHU                             |
 | Fling to the Finish              |
@@ -308,7 +307,6 @@
 
 | Title               |
 | ------------------- |
-| 8 choices remaining |
 | Syberia 3           |
 | Hiveswap Friendsim  |
 | Black Future '88    |
@@ -322,7 +320,6 @@
 
 | Title                         |
 | ----------------------------- |
-| 11 choices remaining          |
 | Neon Abyss                    |
 | Orwell: Ignorance is Strength |
 | Swag and Sorcery              |
@@ -339,7 +336,6 @@
 
 | Title                             |
 | --------------------------------- |
-| 11 choices remaining              |
 | ENCODYA                           |
 | Blue Fire                         |
 | We Need to Go Deeper              |
@@ -356,7 +352,6 @@
 
 | Title                                         |
 | --------------------------------------------- |
-| 12 choices remaining                          |
 | Ikenfell                                      |
 | DESOLATE                                      |
 | Sid Meier’s Civilization® VI Platinum Edition |
@@ -374,7 +369,6 @@
 
 | Title                                            |
 | ------------------------------------------------ |
-| 11 choices remaining                             |
 | Lovecraft's Untold Stories                       |
 | The Wild Eight                                   |
 | Outward + The Soroboreans and Outward Soundtrack |
@@ -391,7 +385,6 @@
 
 | Title                                         |
 | --------------------------------------------- |
-| 11 choices remaining                          |
 | The Ambassador: Fractured Timelines           |
 | Warhammer: Chaosbane                          |
 | Pathologic 2                                  |
@@ -408,7 +401,6 @@
 
 | Title                                               |
 | --------------------------------------------------- |
-| 14 choices remaining                                |
 | One Step From Eden                                  |
 | Indivisible                                         |
 | The Beast Inside                                    |
@@ -428,7 +420,6 @@
 
 | Title                          |
 | ------------------------------ |
-| 12 choices remaining           |
 | Darksburg                      |
 | Yakuza Kiwami 2                |
 | Darkwood                       |
@@ -446,7 +437,6 @@
 
 | Title                                        |
 | -------------------------------------------- |
-| 11 choices remaining                         |
 | The Uncertain: Last Quiet Day                |
 | Shadows: Awakening                           |
 | Fantasy Blacksmith                           |
@@ -463,7 +453,6 @@
 
 | Title                                                    |
 | -------------------------------------------------------- |
-| 12 choices remaining                                     |
 | A Case of Distrust                                       |
 | Through the Darkest of Times                             |
 | Hello Neighbor + Hello Neighbor Hide and Seek Collection |
@@ -481,7 +470,6 @@
 
 | Title                                           |
 | ----------------------------------------------- |
-| 9 choices remaining                             |
 | Remnants of Naezith                             |
 | Stygian: Reign of the Old Ones                  |
 | GRID™ - Ultimate Edition                        |
@@ -498,7 +486,6 @@
 
 | Title                                     |
 | ----------------------------------------- |
-| 10 choices remaining                      |
 | Heave Ho                                  |
 | XCOM® 2 + 2 DLC                           |
 | Niche - a genetics survival game          |
@@ -515,12 +502,11 @@
 # APRIL 2020 HUMBLE CHOICE
 
 | Title                              |
-| ---------------------------------- | --------------------- | ----------------- |
-| 8 choices remaining                |
+| ---------------------------------- | 
 | Opus Magnum                        |
 | Driftland: The Magic Revival       |
 | GRIS                               |
-| Raiden V: Director's Cut           | 雷電 V Director's Cut | 雷電 V:導演剪輯版 |
+| Raiden V: Director's Cut           |
 | The Bard's Tale IV: Director's Cut |
 | MOLEK-SYNTEZ                       |
 | Capitalism 2                       |
@@ -532,7 +518,6 @@
 
 | Title                       |
 | --------------------------- |
-| 9 choices remaining         |
 | AI War 2                    |
 | Etherborn                   |
 | F1 2019 Anniversary Edition |
@@ -549,7 +534,6 @@
 
 | Title                                         |
 | --------------------------------------------- |
-| 10 choices remaining                          |
 | Warstone TD                                   |
 | Eliza                                         |
 | Underhero                                     |
@@ -567,7 +551,6 @@
 
 | Title                     |
 | ------------------------- |
-| 7 choices remaining       |
 | GRIP + 1 DLC              |
 | Graveyard Keeper          |
 | Them's Fightin' Herds     |
@@ -582,7 +565,6 @@
 
 | Title                         |
 | ----------------------------- |
-| 7 choices remaining           |
 | Horizon Chase Turbo           |
 | Desert Child                  |
 | Dead In Vinland               |
