@@ -274,6 +274,19 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# MAY 2023 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| WARHAMMER 40,000: CHAOS GATE - DAEMONHUNTERS |
+| SPIRITFARER: FAREWELL EDITION |
+| Bendy and the Dark Revival |
+| Operation: Tango |
+| Windjammers 2 |
+| Builder Simulator |
+| Behind the Frame |
+| The Invisible Hand |
+
 
 # MARCH 2023 HUMBLE CHOICE
 
