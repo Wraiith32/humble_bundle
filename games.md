@@ -179,7 +179,7 @@
 | [Running with Rifles](https://store.steampowered.com/search/?sort_by=_ASC&term=Running%20with%20Rifles) |
 | [Rustler](https://store.steampowered.com/search/?sort_by=_ASC&term=Rustler) |
 | [Ryse: Son of Rome](https://store.steampowered.com/search/?sort_by=_ASC&term=Ryse:%20Son%20of%20Rome) |
-| [Satisfactory](https://store.steampowered.com/search/?sort_by=_ASC&term=Satisfactory) |
+| ~~[Satisfactory](https://store.steampowered.com/search/?sort_by=_ASC&term=Satisfactory)~~ |
 | [Say No! More](https://store.steampowered.com/search/?sort_by=_ASC&term=Say%20No!%20More) |
 | [Scanner Sombre](https://store.steampowered.com/search/?sort_by=_ASC&term=Scanner%20Sombre) |
 | [Seasons After Fall](https://store.steampowered.com/search/?sort_by=_ASC&term=Seasons%20After%20Fall) |
