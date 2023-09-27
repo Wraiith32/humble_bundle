@@ -274,6 +274,19 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# SEPTEMBER 2023 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| Tiny Tina's Wonderlands |
+| Deceive Inc. |
+| The Forgotten City |
+| Ace & Adventures |
+| Patch Quest |
+| Foretales |
+| Who Pressed Mute on Uncle Marcus |
+| Autonauts vs Piratebots |
+
 # MAY 2023 HUMBLE CHOICE
 
 | Title |
