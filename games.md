@@ -274,16 +274,29 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# OCTOBER 2023 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| The Quarry Deluxe Edition |
+| Metal Hellsinger |
+| Dark Pictures Anthology: House of Ashes |
+| Rebel Inc: Escalation |
+| Spirit of the Island |
+| Lords and Villeins |
+| A Juggler's Tale |
+| ~~Mr. Prepper~~ |
+
 # SEPTEMBER 2023 HUMBLE CHOICE
 
 | Title |
 | ----- |
 | Tiny Tina's Wonderlands |
-| Deceive Inc. |
+| ~~Deceive Inc.~~ |
 | The Forgotten City |
 | Ace & Adventures |
 | Patch Quest |
-| Foretales |
+| ~~Foretales~~ |
 | Who Pressed Mute on Uncle Marcus |
 | Autonauts vs Piratebots |
 
