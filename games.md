@@ -274,6 +274,19 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# NOVEMBER 2023 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| Hardspace: Shipbreaker |
+| WWE 2K23 |
+| Unpacking |
+| Friends vs Friends |
+| Prodeus |
+| The Legend of Tianding |
+| SCP: Secret Files |
+| Souldiers |
+
 # OCTOBER 2023 HUMBLE CHOICE
 
 | Title |
