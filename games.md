@@ -97,7 +97,7 @@
 | [Iron Danger](https://store.steampowered.com/search/?sort_by=_ASC&term=Iron%20Danger) |
 | [Jalopy](https://store.steampowered.com/search/?sort_by=_ASC&term=Jalopy) |
 | [Just Cause 3 XXL Edition](https://store.steampowered.com/search/?sort_by=_ASC&term=Just%20Cause%203%20XXL%20Edition) |
-| [Kerbal Space Program](https://store.steampowered.com/search/?sort_by=_ASC&term=Kerbal%20Space%20Program) |
+| _[Kerbal Space Program](https://store.steampowered.com/search/?sort_by=_ASC&term=Kerbal%20Space%20Program)_ |
 | [Kerbal Space Program](https://store.steampowered.com/search/?sort_by=_ASC&term=Kerbal%20Space%20Program) |
 | [Kingdom Two Crowns](https://store.steampowered.com/search/?sort_by=_ASC&term=Kingdom%20Two%20Crowns) |
 | [Kona](https://store.steampowered.com/search/?sort_by=_ASC&term=Kona) |
