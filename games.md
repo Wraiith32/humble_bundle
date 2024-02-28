@@ -274,6 +274,19 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# FEBRUARY 2024 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| Life Is Strange: True Colors |
+| Scorn |
+| Destroy All Humans 2! Reprobed |
+| Beacon Pines |
+| There is no light: Enhanced Edition |
+| Children of Silentown |
+| Oaken |
+| Snowtopia: Ski Resort Builder |
+
 # NOVEMBER 2023 HUMBLE CHOICE
 
 | Title |
