@@ -335,7 +335,7 @@
 | Bendy and the Dark Revival |
 | Operation: Tango |
 | Windjammers 2 |
-| Builder Simulator |
+| ~~Builder Simulator~~ |
 | Behind the Frame |
 | The Invisible Hand |
 
