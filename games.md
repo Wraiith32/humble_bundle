@@ -274,6 +274,19 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# SEPTEMBER 2024 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| Guardians of the Galaxy |
+| Stranded: Alien Dawn |
+| Coral Island |
+| Spongebob Squarepants: The Cosmic Shake |
+| Lost Eidolons |
+| Astrea: Six-Sided Oracles |
+| InfraSpace |
+| You Suck at Parking - Complete Edition |
+
 # FEBRUARY 2024 HUMBLE CHOICE
 
 | Title |
