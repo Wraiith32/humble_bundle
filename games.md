@@ -280,7 +280,7 @@
 | ----- |
 | Guardians of the Galaxy |
 | Stranded: Alien Dawn |
-| Coral Island |
+| ~~Coral Island~~ |
 | Spongebob Squarepants: The Cosmic Shake |
 | Lost Eidolons |
 | Astrea: Six-Sided Oracles |
