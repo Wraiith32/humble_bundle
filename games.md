@@ -59,7 +59,7 @@
 | [Draw Slasher](https://store.steampowered.com/search/?sort_by=_ASC&term=Draw%20Slasher) |
 | [Driftland: The Magic Revival](https://store.steampowered.com/search/?sort_by=_ASC&term=Driftland:%20The%20Magic%20Revival) |
 | [DV: Rings of Saturn](https://store.steampowered.com/search/?sort_by=_ASC&term=DV:%20Rings%20of%20Saturn) |
-| [EarthX](https://store.steampowered.com/search/?sort_by=_ASC&term=EarthX) |
+| ~~[EarthX](https://store.steampowered.com/search/?sort_by=_ASC&term=EarthX)~~ |
 | [Emily is Away Too](https://store.steampowered.com/search/?sort_by=_ASC&term=Emily%20is%20Away%20Too) |
 | [Endless Space 2](https://store.steampowered.com/search/?sort_by=_ASC&term=Endless%20Space%202) |
 | [ESO Vanity pet: Bristlegut Piglet and 15 days of ESO Plus](https://store.steampowered.com/search/?sort_by=_ASC&term=ESO%20Vanity%20pet:%20Bristlegut%20Piglet%20and%2015%20days%20of%20ESO%20Plus) |
