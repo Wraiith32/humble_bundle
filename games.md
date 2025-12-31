@@ -274,6 +274,30 @@
 | [Zombie Army Trilogy](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Army%20Trilogy) |
 | [Zombie Night Terror](https://store.steampowered.com/search/?sort_by=_ASC&term=Zombie%20Night%20Terror) |
 
+# OCTOBER 2025 HUMBLE CHOICE
+
+| Title |
+| ----- |
+| ~~Atomic Heart~~ |
+| VRising |
+| ~~System Shock~~ |
+| Story of Seasons: Pioneers of Olive Town |
+| CryptMaster |
+| ~~Shogun Showdown~~ |
+| ~~Hotel Renovator~~ |
+| ~~Caravan Sandwich~~ |
+
+| Title |
+| ----- |
+| Guardians of the Galaxy |
+| Stranded: Alien Dawn |
+| ~~Coral Island~~ |
+| Spongebob Squarepants: The Cosmic Shake |
+| Lost Eidolons |
+| Astrea: Six-Sided Oracles |
+| InfraSpace |
+| You Suck at Parking - Complete Edition |
+
 # SEPTEMBER 2024 HUMBLE CHOICE
 
 | Title |
@@ -651,3 +675,4 @@
 | Aegis Defenders               |
 | Phantom Doctrine              |
 | X-Morph: Defense              |
+
